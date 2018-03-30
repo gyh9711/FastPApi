@@ -1,4 +1,4 @@
-# FashPapi
+# FastPapi
 
 `项目采用Phalapi，一个专注api开发PHP框架，开发效率令人印象深刻; `
 
